@@ -1,4 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app
+# Card "Next" – Banking Card Landing Page  
+
+A modern and minimal **banking card landing page** designed to showcase the features, security, benefits, and application process of the "Next" Visa Card. Built with a clean layout, smooth UI, and user-friendly structure to help customers apply for their card easily.  
+
+---
+
+## 🚀 Features  
+
+- **Hero Section** – Attractive card mockup with intro text.  
+- **Card Protection** – Explains security features like PIN, mobile verification, and online payment safety.  
+- **Getting the Card** – Simple 3-step process (Apply → Approval → Delivery).  
+- **Capabilities** – Highlights bonuses, free online banking, and annual rewards.  
+- **Call-to-Action Buttons** – Multiple *"Fill Out an Application"* buttons for better conversions.  
+- **Responsive Layout** – Optimized for all screen sizes.  
+- **Footer Navigation** – Quick links to About, Cards, Resources, Mortgages, and Investments.  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Next.js** – Framework for building modern React apps.  
+- **Tailwind CSS** – Utility-first CSS for styling.  
+- **Framer Motion** – Smooth animations and transitions.  
+- **ShadCN UI** – Accessible, reusable UI components.  
+
+---
+
+##  Screenshot
+
+
 ![Image](https://github.com/user-attachments/assets/b3f0e9ae-d9b0-40b6-b92c-3e28880c4895)
 ## Getting Started
 
