@@ -22,7 +22,7 @@ export function Hero() {
             transition={{ duration: 0.6 }}
             className="text-center md:text-left"
           >
-            <h1 className="text-4xl md:text-5xl font-bold text-white mb-6"> {"Card \"Next\""}</h1>
+            <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">Card "Next"</h1>
             <p className="text-lg text-white/80 mb-8 max-w-md mx-auto md:mx-0">
               Your personal card for daily purposes. This card was created to help you make wisely purchases and get
               benefits with joy. Discover all advantages and get your card today!
