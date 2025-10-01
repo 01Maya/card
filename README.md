@@ -24,6 +24,9 @@ A modern and minimal **banking card landing page** designed to showcase the feat
 - **ShadCN UI** – Accessible, reusable UI components.  
 
 ---
+##  Preview
+
+https://nextgen-card.vercel.app/
 
 ##  Screenshot
 
